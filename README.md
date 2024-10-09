@@ -13,7 +13,7 @@
 
 - 📫 How to reach me [Mail](mailto:neeravjha444@gmail.com)<br>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/113KAAqS12aGW6LiZngyWVAKKuiIMSnhe/view?usp=sharing)<br>
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AbmYwOajuDBT8wUV6ZOUM63JaphXddh4/view?usp=drive_link)<br>
 
 - ⚡ Fun fact **I am a die-hard footballer**
 

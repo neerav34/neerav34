@@ -11,7 +11,7 @@
 
 - 💬 Talk to me about Python, Machine Learning, AI, or JavaScript—tech talk is my love language<br>
 
-- 📩 Drop a line: (mailto:neeravjha444@gmail.com)<br>
+- 📩 Drop a line: [neeravjha444@gmail.com](mailto:neeravjha444@gmail.com)<br>
 
 - 📄 Curious about what I’ve done? [Check out my resume](https://drive.google.com/file/d/1x77E_oNvxgL42b9b0cIr2cBTZehh5P0h/view?usp=sharing)<br>
 

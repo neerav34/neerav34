@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-- 🔭 Currently building an AI-powered flashcard generator—because learning should be smarter, not harder<br>
+- 🔭 Currently building an AI-powered Voice Assistant—because learning should be smarter, not harder<br>
 
 - 🤖 Deep-diving into the world of Generative AI (and loving every weird corner of it)<br>
 

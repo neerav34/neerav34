@@ -5,17 +5,17 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on AI-based flashcard generator<br>
+- 🔭 Currently building an AI-powered flashcard generator—because learning should be smarter, not harder<br>
 
-- 🌱 I’m currently learning Generative AI<br>
+- 🤖 Deep-diving into the world of Generative AI (and loving every weird corner of it)<br>
 
-- 💬 Ask me about Python, Machine Learning, AI<be>
+- 💬 Talk to me about Python, Machine Learning, AI, or JavaScript—tech talk is my love language<br>
 
-- 📫 How to reach me [Mail](mailto:neeravjha444@gmail.com)<br>
+- 📩 Drop a line: (mailto:neeravjha444@gmail.com)<br>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x77E_oNvxgL42b9b0cIr2cBTZehh5P0h/view?usp=sharing)<br>
+- 📄 Curious about what I’ve done? [Check out my resume](https://drive.google.com/file/d/1x77E_oNvxgL42b9b0cIr2cBTZehh5P0h/view?usp=sharing)<br>
 
-- ⚡ Fun fact **I am a die-hard footballer**
+- ⚽ Fun fact: I’m a die-hard footballer who codes between matches
 
 
 ## 🌐 Socials:

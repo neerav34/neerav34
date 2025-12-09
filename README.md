@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neerav Jha</h1>
 <h3 align="center">Software Developer | Backend Engineering | AI & Automation</h3>
 
-<img align="right" alt="coding" width="420" style="margin-top:-20px;" 
+<img align="right" alt="coding" width="420" style="margin-top:-10px;" 
 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 

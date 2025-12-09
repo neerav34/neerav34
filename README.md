@@ -16,7 +16,7 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 
 - 📄 Resume: [View Here](https://drive.google.com/file/d/1h-w5dZftKcPxryhzdudBlT-FsQ2AFgkQ/view?usp=drivesdk)
 
-- ⚽ Fun fact: I debug code like I dribble—fast but controlled 😄 
+- ⚽ Fun fact: I debug code like I dribble - fast but controlled 
 
 
 ## 🌐 Socials:

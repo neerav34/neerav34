@@ -6,10 +6,15 @@
 
 ### 🚀 About Me
 - 🔭 Currently building AI-powered backend systems & voice assistants  
+
 - 🤖 Exploring Generative AI, LLM orchestration & automation pipelines  
+
 - 🧩 Interested in backend engineering, system design & data workflows  
+
 - 📬 Reach me at: **neeravjha444@gmail.com**  
-- 📄 Resume: [View Here]([https://drive.google.com/file/d/1x77E_oNvxgL42b9b0cIr2cBTZehh5P0h/view?usp=sharing](https://drive.google.com/file/d/1h-w5dZftKcPxryhzdudBlT-FsQ2AFgkQ/view?usp=drivesdk))  
+
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1h-w5dZftKcPxryhzdudBlT-FsQ2AFgkQ/view?usp=drivesdk)
+
 - ⚽ Fun fact: I debug code like I dribble—fast but controlled 😄 
 
 

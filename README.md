@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Neerav Jha</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer | Backend Engineering | AI & Automation</h3>
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-# 💫 About Me:
-- 🔭 Currently building an AI-powered Voice Assistant—because learning should be smarter, not harder<br>
-
-- 🤖 Deep-diving into the world of Generative AI (and loving every weird corner of it)<br>
-
-- 💬 Talk to me about Python, Machine Learning, AI, or JavaScript—tech talk is my love language<br>
-
-- 📩 Drop a line: [neeravjha444@gmail.com](mailto:neeravjha444@gmail.com)<br>
-
-- 📄 Curious about what I’ve done? [Check out my resume](https://drive.google.com/file/d/1x77E_oNvxgL42b9b0cIr2cBTZehh5P0h/view?usp=sharing)<br>
-
-- ⚽ Fun fact: I’m a die-hard footballer who codes between matches
+### 🚀 About Me
+- 🔭 Currently building AI-powered backend systems & voice assistants  
+- 🤖 Exploring Generative AI, LLM orchestration & automation pipelines  
+- 🧩 Interested in backend engineering, system design & data workflows  
+- 📬 Reach me at: **neeravjha444@gmail.com**  
+- 📄 Resume: [View Here]([https://drive.google.com/file/d/1x77E_oNvxgL42b9b0cIr2cBTZehh5P0h/view?usp=sharing](https://drive.google.com/file/d/1h-w5dZftKcPxryhzdudBlT-FsQ2AFgkQ/view?usp=drivesdk))  
+- ⚽ Fun fact: I debug code like I dribble—fast but controlled 😄 
 
 
 ## 🌐 Socials:
@@ -29,5 +24,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=neerav34&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

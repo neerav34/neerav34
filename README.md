@@ -1,22 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hey,%20I'm%20Neerav%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20crafting%20AI%20%26%20automation%20systems&descAlignY=54&descSize=19" />
+# 👋 Hey, I'm Neerav Jha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FD0FF&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Engineer;I+build+things%2C+then+break+them+with+load+tests;Creator+of+env-doctor+%26+llm-gateway;Currently%3A+chasing+milliseconds" />
+### Backend Engineer crafting AI & automation systems
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FD0FF&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Engineer;I+build+things%2C+then+break+them+with+load+tests;Creator+of+env-doctor+%26+llm-gateway;Currently%3A+chasing+milliseconds" alt="Typing SVG" />
 
 <br>
 
-<a href="https://neerav-portfolio-nine.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-0F2027?style=for-the-badge&logoColor=white" /></a>
-<a href="https://medium.com/@neeravjha444"><img src="https://img.shields.io/badge/✍️_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1h-w5dZftKcPxryhzdudBlT-FsQ2AFgkQ/view?usp=drivesdk"><img src="https://img.shields.io/badge/📄_Resume-2C5364?style=for-the-badge" /></a>
-<a href="https://linkedin.com/in/neerav-jha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:neeravjha444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0F2027?style=for-the-badge)](https://neerav-portfolio-nine.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@neeravjha444)
+[![Resume](https://img.shields.io/badge/Resume-2C5364?style=for-the-badge)](https://drive.google.com/file/d/1h-w5dZftKcPxryhzdudBlT-FsQ2AFgkQ/view?usp=drivesdk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerav-jha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neeravjha444@gmail.com)
 
 </div>
 
 <br>
 
-<img align="right" alt="coding" width="360"
+<img align="right" alt="coding" width="340"
 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
@@ -34,15 +36,9 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 
 ## 📝 Latest Write-Up
 
-<table>
-<tr>
-<td width="100%">
-
 ### [I Built a Free LLM Gateway — Then My Own Load Test Exposed an 8× Latency Bug](https://medium.com/@neeravjha444/i-built-a-free-llm-gateway-then-my-own-load-test-exposed-an-8-latency-bug-f5fd25ce5863)
 
 A production debugging story: a cache-hit endpoint that should never touch an LLM was clocking **p50 = 3,802ms**. The culprit — a fresh `httpx.AsyncClient()` (and a fresh TLS handshake) spun up on *every single Redis call*. One connection-pooling fix later:
-
-<div align="center">
 
 | Metric | Before | After | Change |
 |:---|:---:|:---:|:---:|
@@ -50,13 +46,7 @@ A production debugging story: a cache-hit endpoint that should never touch an LL
 | **Throughput** | baseline | 5×+ | 🔺 **5×+ increase** |
 | **Infra upgrade** | — | none | 💸 **$0 spent** |
 
-</div>
-
 📖 [Read the full breakdown on Medium](https://medium.com/@neeravjha444/i-built-a-free-llm-gateway-then-my-own-load-test-exposed-an-8-latency-bug-f5fd25ce5863) · ✍️ [More posts on Medium](https://medium.com/@neeravjha444)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -96,43 +86,45 @@ A production debugging story: a cache-hit endpoint that should never touch an LL
 
 ## 💻 Tech Stack
 
-<div align="center">
+**Languages:** Python · JavaScript · TypeScript · Java · SQL
 
-**Languages**
+**Backend & APIs:** Flask · Node.js · FastAPI · Django · GraphQL
+
+**AI / ML / LLM Tooling:** PyTorch · TensorFlow · LangChain · OpenAI API · Hugging Face · Pandas · NumPy
+
+**Databases:** MongoDB · MySQL · PostgreSQL · Redis
+
+**DevOps & Infra:** Docker · Kubernetes · Terraform · AWS · GitHub Actions · Linux · Git
+
+<details>
+<summary>🎨 Show as badges</summary>
 <br>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend & APIs**
-<br>
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-**AI / ML / LLM Tooling**
-<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Databases**
-<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps & Infra**
-<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -141,7 +133,7 @@ A production debugging story: a cache-hit endpoint that should never touch an LL
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+</details>
 
 ---
 
@@ -155,25 +147,13 @@ A production debugging story: a cache-hit endpoint that should never touch an LL
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerav34&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neerav34&theme=tokyo-night&hide_border=true" />
-</div>
-
 ---
 
-<div align="center">
+## 🔗 Find Me Elsewhere
 
-### 🔗 Find Me Elsewhere
-
-<a href="https://neerav-portfolio-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/neerav34"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/neerav-jha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/neerav34/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://medium.com/@neeravjha444"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://instagram.com/neerav_jha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://neerav-portfolio-nine.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerav34)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerav-jha)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/neerav34/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@neeravjha444)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/neerav_jha)

@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="right" alt="coding" width="340"
+<img align="right" alt="coding" width="280"
 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
@@ -26,11 +26,12 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 - 🔭 Building **AI-powered backend systems** & voice assistants
 - 🛠️ Shipped **env-doctor** — the ESLint of environment variables (CLI + VS Code extension + GitHub Action)
 - ⚡ Shipped **llm-gateway** — a multi-provider LLM routing gateway with semantic caching, failover & cost tracking
-- 🐛 Recently found (and fixed) an **8× latency bug** in my own production system — [read the postmortem →](https://medium.com/@neeravjha444/i-built-a-free-llm-gateway-then-my-own-load-test-exposed-an-8-latency-bug-f5fd25ce5863)
+- 🐛 Recently found (and fixed) an **8× latency bug** in my own production system
 - 🌱 Focused on backend engineering, system design & data workflows
 - ⚽ Fun fact: I debug code like I dribble — fast but controlled
+- 📖 [Read the 8× latency postmortem →](https://medium.com/@neeravjha444/i-built-a-free-llm-gateway-then-my-own-load-test-exposed-an-8-latency-bug-f5fd25ce5863)
 
-<br clear="right">
+<br clear="both">
 
 ---
 

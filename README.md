@@ -9,14 +9,26 @@
 <img align="right" alt="coding" width="380" style="margin-top:-10px;"
 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### :rocket: About Me
-- :telescope: Building AI-powered backend systems & voice assistants
-- :hammer_and_wrench: Shipped **env-doctor** (env-var linter — CLI + VS Code extension + GitHub Action) and **llm-gateway** (multi-provider LLM routing gateway) — see Featured Projects below
-- :jigsaw: Focused on backend engineering, system design & data workflows
-- :globe_with_meridians: Portfolio: [neerav-portfolio-nine.vercel.app](https://neerav-portfolio-nine.vercel.app)
-- :page_facing_up: Resume: [View Here](https://drive.google.com/file/d/1h-w5dZftKcPxryhzdudBlT-FsQ2AFgkQ/view?usp=drivesdk)
-- :mailbox_with_mail: neeravjha444@gmail.com
-- :soccer: Fun fact: I debug code like I dribble - fast but controlled
+```ansi
+[1;36mneerav[0m@[1;36mjha[0m
+[36m---------------------------------------------[0m
+[1;33mRole[0m: ................. Backend Engineer, AI & Automation
+[1;33mFocus[0m: ................ LLM backend systems, voice AI, dev tooling
+[1;33mShipped[0m: .............. env-doctor, llm-gateway
+
+[1;33mLanguages.Programming[0m: . Python, JavaScript, TypeScript, Java, SQL
+[1;33mStack.Backend[0m: ........  Flask, FastAPI, Django, Node.js, GraphQL
+[1;33mStack.AI_ML[0m: ..........  PyTorch, TensorFlow, LangChain, OpenAI, HF
+[1;33mStack.Infra[0m: ..........  Docker, Kubernetes, Terraform, AWS
+
+[1;33mPortfolio[0m: ............  neerav-portfolio-nine.vercel.app
+[1;33mResume[0m: ...............  drive.google.com (see link below)
+[1;33mEmail[0m: ................  neeravjha444@gmail.com
+[1;33mGitHub[0m: ...............  github.com/neerav34
+[1;33mLinkedIn[0m: .............  linkedin.com/in/neerav-jha
+
+[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [0m
+```
 
 <br clear="right">
 

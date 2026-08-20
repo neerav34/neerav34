@@ -6,9 +6,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3FD0FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+AI-powered+backend+systems;Creator+of+env-doctor+%26+llm-gateway" />
 </p>
 
-<p align="center">
-  <img width="800" src="./assets/neofetch-card.svg" alt="neerav@jha system info card" />
-</p>
+<img align="right" alt="coding" width="380" style="margin-top:-10px;"
+src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### :rocket: About Me
+- :telescope: Building AI-powered backend systems & voice assistants
+- :hammer_and_wrench: Shipped **env-doctor** (env-var linter — CLI + VS Code extension + GitHub Action) and **llm-gateway** (multi-provider LLM routing gateway) — see Featured Projects below
+- :jigsaw: Focused on backend engineering, system design & data workflows
+- :globe_with_meridians: Portfolio: [neerav-portfolio-nine.vercel.app](https://neerav-portfolio-nine.vercel.app)
+- :page_facing_up: Resume: [View Here](https://drive.google.com/file/d/1h-w5dZftKcPxryhzdudBlT-FsQ2AFgkQ/view?usp=drivesdk)
+- :mailbox_with_mail: neeravjha444@gmail.com
+- :soccer: Fun fact: I debug code like I dribble - fast but controlled
+
+<br clear="right">
 
 ## :globe_with_meridians: Find Me
 

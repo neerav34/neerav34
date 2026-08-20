@@ -6,31 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3FD0FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+AI-powered+backend+systems;Creator+of+env-doctor+%26+llm-gateway" />
 </p>
 
-<img align="right" alt="coding" width="380" style="margin-top:-10px;"
-src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```ansi
-[1;36mneerav[0m@[1;36mjha[0m
-[36m---------------------------------------------[0m
-[1;33mRole[0m: ................. Backend Engineer, AI & Automation
-[1;33mFocus[0m: ................ LLM backend systems, voice AI, dev tooling
-[1;33mShipped[0m: .............. env-doctor, llm-gateway
-
-[1;33mLanguages.Programming[0m: . Python, JavaScript, TypeScript, Java, SQL
-[1;33mStack.Backend[0m: ........  Flask, FastAPI, Django, Node.js, GraphQL
-[1;33mStack.AI_ML[0m: ..........  PyTorch, TensorFlow, LangChain, OpenAI, HF
-[1;33mStack.Infra[0m: ..........  Docker, Kubernetes, Terraform, AWS
-
-[1;33mPortfolio[0m: ............  neerav-portfolio-nine.vercel.app
-[1;33mResume[0m: ...............  drive.google.com (see link below)
-[1;33mEmail[0m: ................  neeravjha444@gmail.com
-[1;33mGitHub[0m: ...............  github.com/neerav34
-[1;33mLinkedIn[0m: .............  linkedin.com/in/neerav-jha
-
-[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [0m
-```
-
-<br clear="right">
+<p align="center">
+  <img width="800" src="./assets/neofetch-card.svg" alt="neerav@jha system info card" />
+</p>
 
 ## :globe_with_meridians: Find Me
 

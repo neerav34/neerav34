@@ -125,6 +125,3 @@ Occasional deep-dives on backend engineering, LLM prompt architecture, and voice
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerav34&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
-<p align="center">
-  <img width="98%" src="./assets/calendar.svg" alt="contribution calendar" />
-</p>

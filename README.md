@@ -118,5 +118,5 @@ Occasional deep-dives on backend engineering, LLM prompt architecture, and voice
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerav34&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=neerav34&theme=tokyo-night&hide_border=true&area=true" alt="commit activity graph" />
+  <img width="98%" src="https://ghchart.rshah.org/3fd0ff/neerav34" alt="contribution calendar" />
 </p>

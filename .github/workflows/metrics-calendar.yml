@@ -24,6 +24,25 @@ jobs:
           base: ""
           plugin_calendar: yes
 
+      - name: Recolor to GitHub dark theme palette
+        run: |
+          python3 - <<'PY'
+          path = "assets/calendar.svg"
+          with open(path) as f:
+              content = f.read()
+          replacements = {
+              "#ebedf0": "#161b22",
+              "#9be9a8": "#0e4429",
+              "#40c463": "#006d32",
+              "#30a14e": "#26a641",
+              "#216e39": "#39d353",
+          }
+          for old, new in replacements.items():
+              content = content.replace(old, new)
+          with open(path, "w") as f:
+              f.write(content)
+          PY
+
       - name: Commit updated calendar
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

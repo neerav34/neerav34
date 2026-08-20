@@ -51,6 +51,14 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### :iphone: [qrdrop](https://github.com/neerav34/qrdrop)
+**Send files between any two devices by scanning a QR code.** Peer-to-peer over WebRTC — no upload, no account, no size limit tied to a server.
+
+</td>
+</tr>
 </table>
 
 <br>

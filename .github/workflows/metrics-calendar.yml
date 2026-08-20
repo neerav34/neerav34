@@ -1,0 +1,31 @@
+name: Generate contribution calendar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render calendar SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+
+      - name: Commit updated calendar
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution calendar"
+          file_pattern: assets/calendar.svg

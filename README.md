@@ -1,126 +1,53 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:102A43,100:00B4D8&height=220&section=header&text=NEERAV%20JHA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Developer%20Tools&descAlignY=58&descSize=18&descColor=9FE8FF&animation=fadeIn" width="100%"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Neerav%20Jha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20and%20Automation&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/neerav34">
-    <img src="https://img.shields.io/github/followers/neerav34?label=Followers&style=flat-square&color=0ea5e9"/>
-  </a>
-  <a href="https://www.npmjs.com/package/@neerav34/env-doctor">
-    <img src="https://img.shields.io/npm/dm/%40neerav34%2Fenv-doctor?style=flat-square&color=cb3837&label=env-doctor%20downloads"/>
-  </a>
-  <a href="https://github.com/neerav34/env-doctor">
-    <img src="https://img.shields.io/github/stars/neerav34/env-doctor?style=flat-square&color=f59e0b&label=env-doctor%20stars"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3FD0FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+AI-powered+backend+systems;Creator+of+env-doctor+%26+llm-gateway" />
 </p>
 
-<p align="center">
-  <a href="https://neerav-portfolio-nine.vercel.app">Portfolio</a>
-  ·
-  <a href="https://linkedin.com/in/neerav-jha">LinkedIn</a>
-  ·
-  <a href="https://leetcode.com/u/neerav34/">LeetCode</a>
-  ·
-  <a href="https://medium.com/@neeravjha444">Writing</a>
+<img align="right" alt="coding" width="380" style="margin-top:-10px;"
+src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### :rocket: About Me
+- :telescope: Building AI-powered backend systems & voice assistants
+- :hammer_and_wrench: Shipped **env-doctor** (env-var linter — CLI + VS Code extension + GitHub Action) and **llm-gateway** (multi-provider LLM routing gateway) — see Featured Projects below
+- :jigsaw: Focused on backend engineering, system design & data workflows
+- :globe_with_meridians: Portfolio: [neerav-portfolio-nine.vercel.app](https://neerav-portfolio-nine.vercel.app)
+- :page_facing_up: Resume: [View Here](https://drive.google.com/file/d/1h-w5dZftKcPxryhzdudBlT-FsQ2AFgkQ/view?usp=drivesdk)
+- :mailbox_with_mail: neeravjha444@gmail.com
+- :soccer: Fun fact: I debug code like I dribble - fast but controlled
+
+<br clear="right">
+
+## :globe_with_meridians: Find Me
+
+<p align="left">
+<a href="https://neerav-portfolio-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/neerav34"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/neerav-jha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/neerav34/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://instagram.com/neerav_jha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <br>
 
-<h2 align="center">
-  I build backend systems that make AI actually work.
-</h2>
-
-<p align="center">
-  Production APIs · LLM infrastructure · Voice AI · Developer tooling
-</p>
-
----
-
-## 👨‍💻 About
-
-```text
-Backend engineer focused on the intersection of distributed systems,
-AI infrastructure, and developer tooling.
-
-Currently building production AI systems and integrations,
-while creating open-source tools that solve painful engineering problems.
-```
-
-* 🔭 Building **AI-powered backend systems & voice assistants**
-* 🧠 Interested in **LLM infrastructure, orchestration, RAG & system design**
-* 🛠️ Creator of **env-doctor** and **llm-gateway**
-* ⚡ Strong focus on **Python, TypeScript, APIs & distributed systems**
-* 🧩 I like turning repetitive engineering problems into tools
-* ⚽ Football enthusiast — debugging code like I dribble: **fast, but controlled**
-
-<br>
-
-## 🚀 Featured Work
+## :pushpin: Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🩺 env-doctor</h3>
+### :stethoscope: [env-doctor](https://github.com/neerav34/env-doctor)
+**The eslint of environment variables.** Catches missing/undocumented env vars before they hit production. Ships as a CLI, a [VS Code extension](https://github.com/neerav34/env-doctor-vscode) with inline warnings, and a [GitHub Action](https://github.com/neerav34/env-doctor-action) that checks every PR.
 
-<p>
-<b>The ESLint for environment variables.</b>
-</p>
-
-<p>
-Find missing, unused and undocumented environment variables before they become production incidents.
-</p>
-
-<p>
-<b>Ships as:</b>
-</p>
-
-<ul>
-<li>CLI</li>
-<li>VS Code extension</li>
-<li>GitHub Action</li>
-</ul>
-
-<p>
-<a href="https://github.com/neerav34/env-doctor">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=flat-square&logo=github"/>
-</a>
-<a href="https://www.npmjs.com/package/@neerav34/env-doctor">
-<img src="https://img.shields.io/badge/npm-Package-CB3837?style=flat-square&logo=npm"/>
-</a>
-</p>
+:link: [Live landing page](https://env-doctor-web.vercel.app) · :package: [npm](https://www.npmjs.com/package/@neerav34/env-doctor)
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>⚡ llm-gateway</h3>
-
-<p>
-<b>Multi-provider LLM routing infrastructure.</b>
-</p>
-
-<p>
-A backend gateway designed to make GenAI applications more reliable, observable and cost-aware.
-</p>
-
-<p>
-<b>Handles:</b>
-</p>
-
-<ul>
-<li>Provider fallback</li>
-<li>Response caching</li>
-<li>Rate limiting</li>
-<li>Cost tracking</li>
-<li>SSE streaming</li>
-</ul>
-
-<p>
-<a href="https://github.com/neerav34/llm-gateway">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=flat-square&logo=github"/>
-</a>
-</p>
+### :zap: [llm-gateway](https://github.com/neerav34/llm-gateway)
+**Multi-provider LLM routing gateway.** Handles provider fallback, response caching, rate limiting, cost tracking, and SSE streaming — the plumbing behind a real GenAI backend.
 
 </td>
 </tr>
@@ -128,126 +55,65 @@ A backend gateway designed to make GenAI applications more reliable, observable 
 
 <br>
 
-## 🧠 What I Build
+## :writing_hand: Writing
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🤖
-
-### AI Systems
-
-LLM orchestration
-RAG pipelines
-Tool calling
-Voice AI
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-### Backend
-
-REST APIs
-Microservices
-Async systems
-Integrations
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛠️
-
-### Developer Tools
-
-CLI tools
-VS Code extensions
-GitHub Actions
-Automation
-
-</td>
-
-<td align="center" width="25%">
-
-### 🏗️
-
-### Infrastructure
-
-Caching
-Rate limiting
-Observability
-Cloud systems
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🧰 Tech I Use
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,fastapi,flask,django,java,postgres,mongodb,redis,docker,kubernetes,aws,terraform,githubactions,git,linux&perline=9"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,graphql,nextjs,react&perline=6"/>
-
-</p>
-
-<br>
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=neerav34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerav34&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerav34&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
-## ✍️ Writing
-
-I occasionally write about backend engineering, LLM architecture,
-developer tooling and lessons from building production AI systems.
+Occasional deep-dives on backend engineering, LLM prompt architecture, and voice-AI systems.
 
 <p align="center">
   <a href="https://medium.com/@neeravjha444">
-    <img src="https://img.shields.io/badge/Medium-Read%20my%20writing-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Follow%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
+
+
+## :computer: Tech Stack
+
+**Languages:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & APIs:**
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**AI / ML / LLM Tooling:**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Infra:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 
-## 📬 Let's Connect
+## :bar_chart: GitHub Stats
 
 <p align="center">
-  <a href="mailto:neeravjha444@gmail.com">
-    <img src="https://img.shields.io/badge/Email-neeravjha444%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/neerav-jha">
-    <img src="https://img.shields.io/badge/LinkedIn-Neerav%20Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/neerav34">
-    <img src="https://img.shields.io/badge/GitHub-neerav34-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=neerav34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerav34&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <i>Building systems. Shipping tools. Learning in public.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0B0F14&height=100&section=footer"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerav34&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>

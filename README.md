@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3FD0FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+AI-powered+backend+systems;Creator+of+env-doctor+%26+llm-gateway" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="neerav34's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <img align="right" alt="coding" width="380" style="margin-top:-10px;"
 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">

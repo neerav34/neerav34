@@ -10,7 +10,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="neerav34's GitHub profile" src="dark_mode.svg" />
-</picture>
+</picture> 
 
 <img align="right" alt="coding" width="380" style="margin-top:-10px;"
 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
